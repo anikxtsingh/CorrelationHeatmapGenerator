@@ -1,4 +1,5 @@
 import datetime as dt
+import matplotlib
 from matplotlib.colors import LinearSegmentedColormap
 import pandas as pd
 import yfinance as yf
